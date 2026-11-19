@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-"homepage": "https://mohammed-refai03.github.io/Eventdiscovery",
+  "homepage": "https://mohammed-refai03.github.io/Eventdiscovery",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
